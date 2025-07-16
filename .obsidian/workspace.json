@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "fa775d7b5871f61c",
+    "type": "split",
+    "children": [
+      {
+        "id": "918ade39438eb04c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d3f785e7bd2e4bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Diary/16-07-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "16-07-2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc89a580b33be218",
+    "type": "split",
+    "children": [
+      {
+        "id": "be11da0311c630ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3114e69f7e94cb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f1ea90888543898",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#USA",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b92cc06c70897d65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "90b8dc22c7678d3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbf8599a08f1c282",
+    "type": "split",
+    "children": [
+      {
+        "id": "77db449380014fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47225b51aa4733af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Purple Hearts(Military Award).md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Purple Hearts(Military Award)"
+            }
+          },
+          {
+            "id": "9aa4f0b5c611ac31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "13f4efbc0b63c8d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 - Diary/16-07-2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 16-07-2025"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "183ddb57eb70c0ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7b275cc7ced8ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "13f4efbc0b63c8d5",
+  "lastOpenFiles": [
+    "7 - Main Folder/George Washington.md",
+    "test note.md",
+    "5 - Diary/16-07-2025.md",
+    "2 - Readings/YouTube.md",
+    "2 - Readings/YouTube (1).md",
+    "5 - Diary/15-07-2025.md",
+    "5 - Diary/09-07-2025.md",
+    "5 - Diary/24-06-2025.md",
+    "2 - Readings/5 life-changing Linux tips.md",
+    "Purple Hearts(Military Award).md",
+    "Purple Hearts.md",
+    "5 - Diary/05-06-2025.md",
+    "2 - Readings/Obsidian Plugins Showcase - May 29th, 2025.md",
+    "3 - Videos/Why was FDR allowed to serve four terms (Short Animated Documentary).md",
+    "Obsidian Callout types.md",
+    "7 - Main Folder/Content Provenance and Authenticity C2PA.md",
+    "7 - Main Folder/Metadata.md",
+    "7 - Main Folder/XMP.md",
+    "7 - Main Folder/em dashes.md",
+    "7 - Main Folder/EXIF.md",
+    "Media/Pasted image 20250605213613.png",
+    "Media",
+    "6 - Templates/Friends.md",
+    "3 - Videos/ChatGPT Adding Watermarks to Text Output.md",
+    "IPTC.md",
+    "Clippings/C2PA Technical Specification  C2PA Specifications.md",
+    "Clippings",
+    "3 - Videos/Bir Tawil - the land that nobody wants.md",
+    "3 - Videos/How I Use Tags in Obsidian  EP 7 Mastering Obsidian.md",
+    "Untitled.canvas",
+    "ReadItLater Inbox",
+    "wiki",
+    "How I Use Tags in Obsidian  EP 7 Mastering Obsidian.jpg",
+    "What’s the Longest Train in the World.jpg",
+    "Why Japanese Railways Win.jpg",
+    "3.1 - Video Thumbnails/Obsidian The King of Learning Tools (FULL GUIDE + SETUP).jpg",
+    "Obsidian The King of Learning Tools (FULL GUIDE + SETUP).jpg",
+    "3.1 - Video Thumbnails",
+    "6 - Templates",
+    "7 - Main Folder",
+    "5 - Diary",
+    "4 - Ideas",
+    "3 - Videos"
+  ]
+}

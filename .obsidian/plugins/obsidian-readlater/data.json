@@ -1,0 +1,25 @@
+{
+  "addRibbonIcon": true,
+  "showAtStartup": true,
+  "urlAttribute": "url",
+  "readLaterFolder": "",
+  "pocket": {
+    "markAsRead": false,
+    "frequency": "Manual|"
+  },
+  "instapaper": {
+    "markAsRead": false,
+    "frequency": "Hourly",
+    "token": "c8d42f2c510c4c5492540a36f7e191fa",
+    "secret": "4dbb09831d1c4a518c451b3c34083b83",
+    "username": "t.praveenprabhu5@gmail.com",
+    "user_id": 16407599,
+    "lastSynch": 1752687083372,
+    "folder": "2 - Readings"
+  },
+  "domainsForHeadless": [
+    "medium.com",
+    "msn.com"
+  ],
+  "synchPeriodMS": 900000
+}
