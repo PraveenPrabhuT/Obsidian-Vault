@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Diary/16-07-2025.md",
+                "file": "5 - Diary/14-07-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "16-07-2025"
+              "title": "14-07-2025"
             }
           }
         ]
@@ -151,17 +151,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Diary/16-07-2025.md",
+                "file": "5 - Diary/14-07-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 16-07-2025"
+              "title": "Outline of 14-07-2025"
+            }
+          },
+          {
+            "id": "153f0625fb9aada9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "183ddb57eb70c0ea",
@@ -197,11 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13f4efbc0b63c8d5",
+  "active": "8d3f785e7bd2e4bf",
   "lastOpenFiles": [
+    "5 - Diary/16-07-2025.md",
+    "5 - Diary/14-07-2025.md",
     "7 - Main Folder/George Washington.md",
     "test note.md",
-    "5 - Diary/16-07-2025.md",
     "2 - Readings/YouTube.md",
     "2 - Readings/YouTube (1).md",
     "5 - Diary/15-07-2025.md",
@@ -227,7 +238,6 @@
     "Clippings/C2PA Technical Specification  C2PA Specifications.md",
     "Clippings",
     "3 - Videos/Bir Tawil - the land that nobody wants.md",
-    "3 - Videos/How I Use Tags in Obsidian  EP 7 Mastering Obsidian.md",
     "Untitled.canvas",
     "ReadItLater Inbox",
     "wiki",

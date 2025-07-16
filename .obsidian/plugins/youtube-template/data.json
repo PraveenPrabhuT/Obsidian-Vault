@@ -1,0 +1,14 @@
+{
+  "googleCloudApiKey": "AIzaSyCjcPEt3EQJWD8QqmwgpVVkt7VVBsRxo4M",
+  "folder": "3 - Videos",
+  "chapterFormat": " - \"{{chapter}}\"\n",
+  "hashtagFormat": " - \"#{{hashtag}}\"\n",
+  "template": "---\ntags:\n  - type/youtube\ntitle: \"{{title}}\"\nchannel_name: \"{{channelName}}\"\nlength: \"{{length}}\"\npublish_date: \"{{publishDate}}\"\nchapters: \n{{chapters}}\nhashtags: \n{{hashtags}}\ndescription: \"{{description}}\"\nnote_created: \"{{noteCreated}}\"\nnote_modifiend: \"{{noteCreatedDateTime}}\"\nyoutube_url: \"{{youtubeUrl}}\"\n---\n\n\n<iframe title=\"{{title}}\" src=\"https://www.youtube.com/embed/{{id}}?feature=oembed\" height=\"113\" width=\"200\" style=\"aspect-ratio: 1.76991 / 1; width: 50%; height: 50%;\" allowfullscreen=\"\" allow=\"fullscreen\"></iframe>\n\n\n# 🌍 What It's About\n- \n\n\n# 🧠 Thoughts\n- \n\n# 📒 Summary + Notes\n-\n\n# 📚Related Videos\n-  \n",
+  "createPaths": true,
+  "allowDuplicates": true,
+  "usePathTemplate": false,
+  "pathTemplate": "",
+  "useTemplateFile": false,
+  "templateFile": "",
+  "debugMode": false
+}
