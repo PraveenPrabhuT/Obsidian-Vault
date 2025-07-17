@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "918ade39438eb04c",
+        "id": "3672e697bfb4c0b4",
         "type": "tabs",
         "children": [
           {
-            "id": "8d3f785e7bd2e4bf",
+            "id": "b41553632ca1a1f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Diary/14-07-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "14-07-2025"
+              "title": "New tab"
             }
           }
         ]
@@ -207,12 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d3f785e7bd2e4bf",
+  "active": "153f0625fb9aada9",
   "lastOpenFiles": [
-    "5 - Diary/16-07-2025.md",
-    "5 - Diary/14-07-2025.md",
-    "7 - Main Folder/George Washington.md",
+    "5 - Diary/17-07-2025.md",
     "test note.md",
+    "2 - Readings/What's the Furthest You Could Travel Without a Passport?.md",
+    "2 - Readings/Why Was Singapore Kicked Out of Malaysia? (Short Animated Documentary).md",
+    "5 - Diary/14-07-2025.md",
+    "5 - Diary/16-07-2025.md",
+    "7 - Main Folder/George Washington.md",
     "2 - Readings/YouTube.md",
     "2 - Readings/YouTube (1).md",
     "5 - Diary/15-07-2025.md",
@@ -234,10 +223,7 @@
     "Media",
     "6 - Templates/Friends.md",
     "3 - Videos/ChatGPT Adding Watermarks to Text Output.md",
-    "IPTC.md",
-    "Clippings/C2PA Technical Specification  C2PA Specifications.md",
     "Clippings",
-    "3 - Videos/Bir Tawil - the land that nobody wants.md",
     "Untitled.canvas",
     "ReadItLater Inbox",
     "wiki",
